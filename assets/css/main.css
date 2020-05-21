@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0; }
+
+.wrapper {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+.background {
+  background-color: whitesmoke;
+  width: 500px;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+.btn {
+  outline: none;
+  cursor: pointer;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: whitesmoke;
+  background-color: #8a0000;
+  box-shadow: 5px 5px 5px #a0a0a0;
+  padding: 10px;
+  border-radius: 50%;
+  height: 60px;
+  width: 60px;
+  border: none; }
+  .btn:active {
+    background-color: #530000; }
+
+/*# sourceMappingURL=main.css.map */
